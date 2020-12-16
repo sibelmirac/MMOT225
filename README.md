@@ -11,3 +11,5 @@ hizmetlerinin genel adıdır.*
 *2.Ödevde adı,soyadı,memleketi,e-mail adresi,yaşı  ve iş deneyimi gibi kişisel bilgilerimin tutulduğu bir telefon ekranı yaptım*
 
 *3.Ödevde  tek sayfalık  üye bilgi giriş sayfası yaptım*
+
+*5.Ödevi dersleri tekrar dinleyerek konuya biraz daha hakim olduktan sonra yapmaya çalıştığım için geç yükledim.*
