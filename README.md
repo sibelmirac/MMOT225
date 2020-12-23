@@ -16,3 +16,5 @@ hizmetlerinin genel adıdır.*
 
 *5.Ödevi dersleri tekrar dinleyerek konuya biraz daha hakim olduktan sonra yapmaya çalıştığım için geç yükledim.*
 
+*6.Ödevde verilen linkteki adreste tutulan postları FlatListe çekerek üst kısıma tıklanan postun içerisindeki verileri yazdırdım.*
+
