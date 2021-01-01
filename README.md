@@ -18,5 +18,5 @@ hizmetlerinin genel adıdır.*
 
 *6.Ödevde verilen linkteki adreste tutulan postları FlatListe çekerek üst kısıma tıklanan postun içerisindeki verileri yazdırdım.*
 
-*7.Ödevde zomatodan istanbuldaki restoranlar çekilerek tıklandığında o restorana ait kullanıcı ismi, restoran yorumu ve reyting puanını çeken bir uygulama yaptım.(verilen linkte menu bulunamadığından dolayı o linkteki yorum, reyting ve kullanıcı adı bilgilerini çektim)
+*7.Ödevde zomatodan istanbuldaki restoranlar çekilerek tıklandığında o restorana ait kullanıcı ismi, restoran yorumu ve reyting puanını çeken bir uygulama yaptım.(verilen linkte menu bulunamadığından dolayı o linkteki yorum, reyting ve kullanıcı adı bilgilerini çektim)*
 
